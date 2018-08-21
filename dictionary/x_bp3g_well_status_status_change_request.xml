@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Status Change Request" max_length="40" name="x_bp3g_well_status_status_change_request" sizeclass="1" type="collection">
+        <element label="Engineer" max_length="32" name="engineer" reference="sys_user" type="reference"/>
+        <element label="Landman" max_length="32" name="landman" reference="sys_user" type="reference"/>
+        <element label="Last Production Date" max_length="40" name="last_production_date" type="glide_date"/>
+        <element label="New Well Status" max_length="32" name="new_well_status" reference="x_bp3g_well_status_lookup" reference_qual="type=WellStatus^EQ" reference_qual_condition="type=WellStatus^EQ" type="reference"/>
+        <element label="Status Change Reason" max_length="4000" name="status_change_reason" type="string"/>
+        <element label="Superintendent" max_length="32" name="superintendent" reference="sys_user" type="reference"/>
+    </element>
+</database>

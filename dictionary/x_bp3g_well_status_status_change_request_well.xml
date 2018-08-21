@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Status Change Request Well" max_length="40" name="x_bp3g_well_status_status_change_request_well" type="collection">
+        <element label="Lease Notes" max_length="100" name="lease_notes" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Status Change Request" max_length="32" name="status_change_request" reference="x_bp3g_well_status_status_change_request" type="reference"/>
+        <element label="Well" max_length="32" name="well" reference="x_bp3g_well_status_well" type="reference"/>
+        <index name="index">
+            <element name="status_change_request"/>
+        </index>
+        <index name="index2">
+            <element name="well"/>
+        </index>
+    </element>
+</database>

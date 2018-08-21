@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Well" max_length="40" name="x_bp3g_well_status_well" type="collection">
+        <element label="County" max_length="40" name="county" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Status" max_length="32" name="status" reference="x_bp3g_well_status_lookup" reference_qual="type=WellStatus^EQ" reference_qual_condition="type=WellStatus^EQ" type="reference"/>
+        <index name="index">
+            <element name="status"/>
+        </index>
+    </element>
+</database>
