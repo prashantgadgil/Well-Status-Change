@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_bp3g_well_status_well" version="2" view="sys_ref_list">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="x_bp3g_well_status_well" element="NULL" name="x_bp3g_well_status_well" parent="NULL" relationship="NULL" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="20d07c09dba93a40e6a0d5f0cf9619fb">26d02eb1db00678020b2fa9ebf961917</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-21 16:48:17</sys_created_on>
+            <sys_id>aad02eb1db00678020b2fa9ebf96191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-21 16:48:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_bp3g_well_status_well</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-22 14:04:47</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>55058bcedbc0a78020b2fa9ebf9619fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_bp3g_well_status_well</sys_name>
+            <sys_package display_value="Well Status Change" source="x_bp3g_well_status">d18c4de5db48e38020b2fa9ebf9619ba</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Well Status Change">d18c4de5db48e38020b2fa9ebf9619ba</sys_scope>
+            <sys_update_name>sys_ui_list_x_bp3g_well_status_well_sys_ref_list</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-22 14:04:47</sys_updated_on>
+            <sys_user/>
+            <view display_value="Reference List" name="sys_ref_list">20d07c09dba93a40e6a0d5f0cf9619fb</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

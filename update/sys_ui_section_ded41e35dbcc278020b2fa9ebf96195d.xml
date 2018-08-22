@@ -5,13 +5,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-21 17:30:12</sys_created_on>
-            <sys_id>647ae6fddb00678020b2fa9ebf9619e8</sys_id>
+            <sys_created_on>2018-08-22 14:00:59</sys_created_on>
+            <sys_id>f924478edbc0a78020b2fa9ebf961971</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_bp3g_well_status_status_change_request" sys_domain="global" view="Default view">ded41e35dbcc278020b2fa9ebf96195d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-21 17:30:12</sys_updated_on>
+            <sys_updated_on>2018-08-22 14:00:59</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>active</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-21 17:30:12</sys_created_on>
-            <sys_id>247ae6fddb00678020b2fa9ebf9619e9</sys_id>
+            <sys_created_on>2018-08-22 14:00:59</sys_created_on>
+            <sys_id>b924478edbc0a78020b2fa9ebf961972</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_bp3g_well_status_status_change_request" sys_domain="global" view="Default view">ded41e35dbcc278020b2fa9ebf96195d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-21 17:30:12</sys_updated_on>
+            <sys_updated_on>2018-08-22 14:00:59</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>.split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-21 17:30:12</sys_created_on>
-            <sys_id>e07ae6fddb00678020b2fa9ebf9619ea</sys_id>
+            <sys_created_on>2018-08-22 14:00:59</sys_created_on>
+            <sys_id>7924478edbc0a78020b2fa9ebf961973</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_bp3g_well_status_status_change_request" sys_domain="global" view="Default view">ded41e35dbcc278020b2fa9ebf96195d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-21 17:30:12</sys_updated_on>
+            <sys_updated_on>2018-08-22 14:00:59</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>approval</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-21 17:30:12</sys_created_on>
-            <sys_id>a07ae6fddb00678020b2fa9ebf9619eb</sys_id>
+            <sys_created_on>2018-08-22 14:00:59</sys_created_on>
+            <sys_id>3924478edbc0a78020b2fa9ebf961974</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_bp3g_well_status_status_change_request" sys_domain="global" view="Default view">ded41e35dbcc278020b2fa9ebf96195d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-21 17:30:12</sys_updated_on>
+            <sys_updated_on>2018-08-22 14:00:59</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>state</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-21 17:30:12</sys_created_on>
-            <sys_id>607ae6fddb00678020b2fa9ebf9619ec</sys_id>
+            <sys_created_on>2018-08-22 14:00:59</sys_created_on>
+            <sys_id>f524478edbc0a78020b2fa9ebf961975</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_bp3g_well_status_status_change_request" sys_domain="global" view="Default view">ded41e35dbcc278020b2fa9ebf96195d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-21 17:30:12</sys_updated_on>
+            <sys_updated_on>2018-08-22 14:00:59</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>.end_split</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-21 17:30:12</sys_created_on>
-            <sys_id>207ae6fddb00678020b2fa9ebf9619ed</sys_id>
+            <sys_created_on>2018-08-22 14:00:59</sys_created_on>
+            <sys_id>b524478edbc0a78020b2fa9ebf961976</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_bp3g_well_status_status_change_request" sys_domain="global" view="Default view">ded41e35dbcc278020b2fa9ebf96195d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-21 17:30:12</sys_updated_on>
+            <sys_updated_on>2018-08-22 14:00:59</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -89,111 +89,125 @@
             <element>.begin_split</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-21 17:30:12</sys_created_on>
-            <sys_id>ec7ae6fddb00678020b2fa9ebf9619ed</sys_id>
+            <sys_created_on>2018-08-22 14:00:59</sys_created_on>
+            <sys_id>7524478edbc0a78020b2fa9ebf961977</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_bp3g_well_status_status_change_request" sys_domain="global" view="Default view">ded41e35dbcc278020b2fa9ebf96195d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-21 17:30:12</sys_updated_on>
+            <sys_updated_on>2018-08-22 14:00:59</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>new_well_status</element>
+            <element>wells</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-21 17:30:12</sys_created_on>
-            <sys_id>ac7ae6fddb00678020b2fa9ebf9619ee</sys_id>
+            <sys_created_on>2018-08-22 14:01:00</sys_created_on>
+            <sys_id>3524478edbc0a78020b2fa9ebf961978</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_bp3g_well_status_status_change_request" sys_domain="global" view="Default view">ded41e35dbcc278020b2fa9ebf96195d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-21 17:30:12</sys_updated_on>
+            <sys_updated_on>2018-08-22 14:01:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>new_well_status</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-22 14:01:00</sys_created_on>
+            <sys_id>f124478edbc0a78020b2fa9ebf961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_bp3g_well_status_status_change_request" sys_domain="global" view="Default view">ded41e35dbcc278020b2fa9ebf96195d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-22 14:01:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>last_production_date</element>
-            <position>8</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-21 17:30:12</sys_created_on>
-            <sys_id>6c7ae6fddb00678020b2fa9ebf9619ef</sys_id>
+            <sys_created_on>2018-08-22 14:01:00</sys_created_on>
+            <sys_id>b124478edbc0a78020b2fa9ebf96197a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_bp3g_well_status_status_change_request" sys_domain="global" view="Default view">ded41e35dbcc278020b2fa9ebf96195d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-21 17:30:12</sys_updated_on>
+            <sys_updated_on>2018-08-22 14:01:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>status_change_reason</element>
-            <position>9</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-21 17:30:12</sys_created_on>
-            <sys_id>2c7ae6fddb00678020b2fa9ebf9619f0</sys_id>
+            <sys_created_on>2018-08-22 14:01:00</sys_created_on>
+            <sys_id>7124478edbc0a78020b2fa9ebf96197b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_bp3g_well_status_status_change_request" sys_domain="global" view="Default view">ded41e35dbcc278020b2fa9ebf96195d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-21 17:30:12</sys_updated_on>
+            <sys_updated_on>2018-08-22 14:01:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>10</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-21 17:30:12</sys_created_on>
-            <sys_id>e87ae6fddb00678020b2fa9ebf9619f1</sys_id>
+            <sys_created_on>2018-08-22 14:01:00</sys_created_on>
+            <sys_id>3124478edbc0a78020b2fa9ebf96197c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_bp3g_well_status_status_change_request" sys_domain="global" view="Default view">ded41e35dbcc278020b2fa9ebf96195d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-21 17:30:12</sys_updated_on>
+            <sys_updated_on>2018-08-22 14:01:00</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>superintendent</element>
-            <position>11</position>
+            <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-21 17:30:12</sys_created_on>
-            <sys_id>a87ae6fddb00678020b2fa9ebf9619f2</sys_id>
+            <sys_created_on>2018-08-22 14:01:00</sys_created_on>
+            <sys_id>fd24478edbc0a78020b2fa9ebf96197c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_bp3g_well_status_status_change_request" sys_domain="global" view="Default view">ded41e35dbcc278020b2fa9ebf96195d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-21 17:30:12</sys_updated_on>
+            <sys_updated_on>2018-08-22 14:01:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>landman</element>
-            <position>12</position>
+            <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-21 17:30:12</sys_created_on>
-            <sys_id>687ae6fddb00678020b2fa9ebf9619f3</sys_id>
+            <sys_created_on>2018-08-22 14:01:00</sys_created_on>
+            <sys_id>bd24478edbc0a78020b2fa9ebf96197d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_bp3g_well_status_status_change_request" sys_domain="global" view="Default view">ded41e35dbcc278020b2fa9ebf96195d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-21 17:30:12</sys_updated_on>
+            <sys_updated_on>2018-08-22 14:01:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>engineer</element>
-            <position>13</position>
+            <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-21 17:30:12</sys_created_on>
-            <sys_id>287ae6fddb00678020b2fa9ebf9619f4</sys_id>
+            <sys_created_on>2018-08-22 14:01:00</sys_created_on>
+            <sys_id>7d24478edbc0a78020b2fa9ebf96197e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_bp3g_well_status_status_change_request" sys_domain="global" view="Default view">ded41e35dbcc278020b2fa9ebf96195d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-21 17:30:12</sys_updated_on>
+            <sys_updated_on>2018-08-22 14:01:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

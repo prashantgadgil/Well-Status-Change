@@ -7,5 +7,6 @@
         <element label="New Well Status" max_length="32" name="new_well_status" reference="x_bp3g_well_status_lookup" reference_qual="type=WellStatus^EQ" reference_qual_condition="type=WellStatus^EQ" type="reference"/>
         <element label="Status Change Reason" max_length="4000" name="status_change_reason" type="string"/>
         <element label="Superintendent" max_length="32" name="superintendent" reference="sys_user" type="reference"/>
+        <element label="Wells" max_length="4000" name="wells" reference="x_bp3g_well_status_well" type="glide_list"/>
     </element>
 </database>
