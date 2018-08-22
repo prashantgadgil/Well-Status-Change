@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Construction Task" max_length="40" name="x_bp3g_well_status_construction_task" type="collection">
+        <element label="Construction" mandatory="true" max_length="32" name="construction" reference="x_bp3g_well_status_construction" type="reference"/>
+    </element>
+</database>

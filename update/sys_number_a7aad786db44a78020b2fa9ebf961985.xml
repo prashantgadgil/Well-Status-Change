@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_bp3g_well_status_construction">x_bp3g_well_status_construction</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>CON</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-22 15:39:25</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a7aad786db44a78020b2fa9ebf961985</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CON</sys_name>
+        <sys_package display_value="Well Status Change" source="x_bp3g_well_status">d18c4de5db48e38020b2fa9ebf9619ba</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Well Status Change">d18c4de5db48e38020b2fa9ebf9619ba</sys_scope>
+        <sys_update_name>sys_number_a7aad786db44a78020b2fa9ebf961985</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-22 15:39:25</sys_updated_on>
+    </sys_number>
+</record_update>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Construction" max_length="40" name="x_bp3g_well_status_construction" type="collection">
+        <element choice="1" default="south texas well construction" label="Construction Type" mandatory="true" max_length="40" name="construction_type" type="choice">
+            <choice>
+                <element label="South Texas Well Construction" sequence="0" value="south texas well construction"/>
+                <element label="Permean Disposal Well Construction" sequence="1" value="permean disposal well construction"/>
+                <element label="Permean Horizontal Well Construction" sequence="2" value="permean horizontal well construction"/>
+            </choice>
+        </element>
+        <element label="Well" mandatory="true" max_length="32" name="well" reference="x_bp3g_well_status_well" type="reference"/>
+    </element>
+</database>
