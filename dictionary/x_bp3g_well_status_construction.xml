@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Construction" max_length="40" name="x_bp3g_well_status_construction" sizeclass="1" type="collection">
+    <element extends="task" label="Construction" max_length="40" name="x_bp3g_well_status_construction" sizeclass="4" type="collection">
         <element choice="1" default="south texas well construction" label="Construction Type" mandatory="true" max_length="40" name="construction_type" type="choice">
             <choice>
                 <element label="South Texas Well Construction" sequence="0" value="south texas well construction"/>

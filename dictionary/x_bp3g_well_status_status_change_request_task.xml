@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Status Change Request Task" max_length="40" name="x_bp3g_well_status_status_change_request_task" sizeclass="3" type="collection">
+    <element extends="task" label="Status Change Request Task" max_length="40" name="x_bp3g_well_status_status_change_request_task" sizeclass="24" type="collection">
         <element label="Status Change Request" max_length="32" name="status_change_request" reference="x_bp3g_well_status_status_change_request" type="reference"/>
     </element>
 </database>
